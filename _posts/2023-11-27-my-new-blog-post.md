@@ -1,3 +1,8 @@
+---
+layout: post
+tags: Testing
+---
+
 ## This is my first blog post
 
 This is my first blog post to test how to add blog posts.
